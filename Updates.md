@@ -2,3 +2,5 @@
 **-added Truth command**
 
 **-added Dare command**
+
+**-made online 24/7**
