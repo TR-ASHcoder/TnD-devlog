@@ -11,3 +11,8 @@
 **-added Random command** 
 
 **-added Help command**
+
+
+# UPDATE 1.3 
+
+**-changed prefix from `!` to `>`**
