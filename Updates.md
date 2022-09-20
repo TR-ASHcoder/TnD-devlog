@@ -16,3 +16,8 @@
 # UPDATE 1.3 
 
 **-changed prefix from `!` to `>`**
+
+
+# UPDATE 1.4
+
+**-added what would you do command**
