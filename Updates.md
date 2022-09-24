@@ -20,4 +20,4 @@
 
 # UPDATE 1.4
 
-**-added what would you do command**
+**-added would you rather command**
